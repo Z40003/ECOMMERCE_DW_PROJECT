@@ -1,0 +1,29 @@
+# IDE
+.vscode/
+.idea/
+
+# Java 编译文件
+*.class
+*.jar
+*.war
+*.ear
+
+# 日志文件
+*.log
+logs/
+
+# 临时文件
+*.tmp
+*.temp
+*.swp
+
+# 数据文件
+mock_output/
+ads_output/
+
+# DataX运行生成
+datax_jobs/rendered/
+
+# 环境配置
+.env
+config/local.properties
